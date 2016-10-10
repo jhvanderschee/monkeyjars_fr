@@ -1,5 +1,5 @@
 ---
-title: Conseils
+title: Soins
 layout: instructions
 ---
 
