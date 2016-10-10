@@ -253,6 +253,11 @@ label {font-weight: normal;}
 
 #wrapall, .navbar > div, #lightbox {background: rgba(230,230,225,0);}
 
+@media (min-width: 1200px) {
+.visible-lg {
+    display: initial!important;
+}
+}
 @media all and (max-width: 1700px) {
 .light.extras:before {left: 50%; margin-left: -850px;}
 .light.extras > div:before {left: 50%; margin-left: 400px;}
