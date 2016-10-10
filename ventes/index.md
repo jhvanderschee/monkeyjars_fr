@@ -1,5 +1,6 @@
 ---
-title: Verkooppunten
+title: Points de vente
 ---
 
-Binnenkort zijn hier de verkooppunten beschikbaar.
+
+La liste des points de vente sera bient&ocirc;t disponible.
