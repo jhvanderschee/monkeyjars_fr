@@ -1,11 +1,13 @@
 ---
-title: Privacy
+title: Protection de la vie privée
 ---
-Deze site maakt gebruik van Google Analytics-cookies. Hiermee verwerken wij de persoonsgegevens van u als websitebezoeker, op basis van artikel 8, onder f, van de Wbp (noodzaak ter behartiging van uw gerechtvaardigd belang). 
 
-Wij hebben echter waarborgen getroffen waardoor uw recht op bescherming van de persoonlijke levenssfeer niet prevaleert boven ons gerechtvaardigd belang. Dit hebben wij gedaan middels de volgende maatregelen:
 
-- wij hebben een bewerkersovereenkomst met Google gesloten;
-- wij hebben gekozen voor het maskeren van het laatste octet van het IP-adres;
-- wij hebben 'gegevens delen' uitgezet;
-- wij maken geen gebruik van andere Google-diensten in combinatie met de Google Analyticscookies.
+*Ce site utilise des cookies Google Analytics. Ceux-ci nous permettent de traiter vos donn&eacute;es &agrave; caract&egrave;re personnel en tant que visiteur de notre site Internet, sur la base de l’article 8, sous f, de la Loi n&eacute;erlandaise sur la protection des donn&eacute;es &agrave; caract&egrave;re personnel (Wet Bescherming Persoonsgegevens) (n&eacute;cessaire &agrave; la r&eacute;alisation de votre int&eacute;r&ecirc;t l&eacute;gitime).*
+
+*Nous avons toutefois pris des garanties en vertu desquelles votre droit &agrave; la protection de la vie priv&eacute;e ne l’emporte pas sur notre int&eacute;r&ecirc;t l&eacute;gitime. Pour ce faire, nous avons pris les mesures suivantes :*
+
+* *nous avons conclu un contrat d’auteur avec Google ;*
+* *nous avons choisi de masquer le dernier octet de l'adresse IP ;*
+* *nous avons d&eacute;sactiv&eacute; l’option &laquo; partager les donn&eacute;es &raquo; ;*
+* *nous n’avons pas recours aux autres services de Google en combinaison avec les cookies Google Analytics.*
