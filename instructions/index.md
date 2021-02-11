@@ -3,4 +3,4 @@ title: Soins
 layout: instructions
 ---
 
-Les Monkey Jars ne sont pas des plantes très exigeantes, par contre elles ont une bonne descente (fort heureusement, elles ne consomment que de l’eau !). En effet, comme toutes les plantes qui vivent dans les forêts tropicales humides, elles ont besoin d’énormément d’eau. Si vous les arrosez correctement, vous obtiendrez un splendide résultat. Les Monkey Jars s’épanouissent dans les habitations, ce qui n’est pas le cas des mouches et insectes… 
+Le Monkey Jars et autres esp&egrave;ces apparentées poussent &agrave; l’état sauvage dans les for&ecirc;ts tropicales de l’&icirc;le de Bornéo et des environs. Ces plantes apprécient donc une atmosph&egrave;re tr&egrave;s humide. Dans les pays froids, il convient donc de recréer un environnement qui ressemble le plus &agrave; leur lieu d’origine. Le Monkey Jars apprécie les arrosages fréquents. La terre en particulier doit toujours &ecirc;tre humide. Pour obtenir un résultat optimal, brumisez la plante de temps en temps et arrosez-la réguli&egrave;rement \!

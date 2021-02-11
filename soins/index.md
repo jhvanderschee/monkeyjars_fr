@@ -1,9 +1,6 @@
 ---
-title: Verzorging
+title: SOINS
 layout: instructions
 ---
 
-
-Mijn familie en ik komen van oorsprong uit het tropisch regenwoud van Borneo en omgeving. Daar is het lekker vochtig en daar houden we van. Ik begrijp dat in de koudere landen een regenwoud ver te zoeken is. Maar hoe meer mijn nieuwe plekje erop lijkt, hoe gelukkiger ik ben. 
-
-Ik ben een stevige drinker. Vooral mijn grond moet altijd lekker vochtig zijn. Verwen mij daarom zo nu en dan met een plantenspuit en geef mij geregeld een flinke slok water! 
+Le Monkey Jars et autres esp&egrave;ces apparentées poussent &agrave; l’état sauvage dans les for&ecirc;ts tropicales de l’&icirc;le de Bornéo et des environs. Ces plantes apprécient donc une atmosph&egrave;re tr&egrave;s humide. Dans les pays froids, il convient donc de recréer un environnement qui ressemble le plus &agrave; leur lieu d’origine. Le Monkey Jars apprécie les arrosages fréquents. La terre en particulier doit toujours &ecirc;tre humide. Pour obtenir un résultat optimal, brumisez la plante de temps en temps et arrosez-la réguli&egrave;rement \!
