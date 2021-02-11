@@ -1,5 +1,5 @@
 ---
-title: Verzorging
+title: SOINS
 layout: instructions
 ---
 
