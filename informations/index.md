@@ -87,11 +87,11 @@ plaats:
       d’origine. Ce terreau a en effet spécialement été composé à l’intention
       des plantes carnivores.
 plantenvoeding:
-  - title: Kan ik mijn Monkey Jars kunstmest geven?
+  - title: Puis-je donner de l’engrais à mon Monkey Jars ?
     content: >-
-      Ja dat kan. Eens in de twee maanden een heel klein beetje. Anders word ik
-      misselijk. 1 gram per liter water is voldoende. Zeker als ik te weinig
-      insecten heb gegeten, is kunstmest een mooie toevoeging.
+      Oui, vous pouvez le faire. Une toute petite quantité une fois tous les
+      deux mois. N’en donnez pas plus. 1 g par litre d’eau suffit. Si la plante
+      a attrapé trop peu d’insectes, l’engrais lui fera du bien.
   - title: Moet ik mijn Monkey Jars vliegjes te eten geven?
     content: >-
       Nee dat hoeft niet, maar mag wel. Ik probeer zelf mijn vliegjes te vangen.
