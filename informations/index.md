@@ -92,10 +92,11 @@ plantenvoeding:
       Oui, vous pouvez le faire. Une toute petite quantité une fois tous les
       deux mois. N’en donnez pas plus. 1 g par litre d’eau suffit. Si la plante
       a attrapé trop peu d’insectes, l’engrais lui fera du bien.
-  - title: Moet ik mijn Monkey Jars vliegjes te eten geven?
+  - title: Dois-je donner des mouches à mon Monkey Jars ?
     content: >-
-      Nee dat hoeft niet, maar mag wel. Ik probeer zelf mijn vliegjes te vangen.
-      Deze verteer ik en daar haal ik weer mineralen uit. Maar als ik jarig ben,
-      lust ik best een extra vliegje!
+      Non, ce n’est pas nécessaire, mais vous pouvez éventuellement le faire. La
+      plante attrape elle-même les mouches. Elle les digère et en absorbe les
+      minéraux. Mais elle consomme volontiers une petite mouche supplémentaire
+      de temps à autre !
 ---
 
