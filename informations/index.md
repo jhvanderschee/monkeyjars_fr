@@ -15,11 +15,11 @@ oorsprong:
       posent sur le bord de ses fleurs (qui ressemblent à des urnes), ils
       glissent et tombent au fond de la fleur. Ses fleurs sont remplies d’un
       liquide collant et riche en enzymes digestifs.
-  - title: Blijven de bekers altijd aan de plant vast zitten?
+  - title: Les fleurs restent-elles toujours fixées à la plante ?
     content: >-
-      Mijn bekers kunnen soms wel jaren blijven zitten. Dit hangt vooral af van
-      hoe ik word verzorgd. Als ik te weinig water drink, kunnen de bekers
-      uitdrogen (ze worden bruin) en sterven ze af.
+      La plante peut conserver ses fleurs plusieurs années. Cela dépend surtout
+      des soins reçus. Si l’arrosage est insuffisant, ses fleurs se dessèchent
+      (elles brunissent) et meurent.
   - title: Waar komt de naam Monkey Jars vandaan?
     content: >-
       De apen die door de jungle slingeren nemen onderweg wel eens een slokje
