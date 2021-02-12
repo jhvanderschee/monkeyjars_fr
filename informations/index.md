@@ -26,11 +26,11 @@ oorsprong:
       ses fleurs pour boire. D’où le nom de « Monkey Jars ». On l’appelle aussi
       « plante à urnes ». Mais appelez-la « Monkey Jars » ;-).
 water_geven:
-  - title: Mag ik je meenemen onder de douche?
+  - title: Est-ce que je peux l’emmener sous la douche ?
     content: >-
-      Ja, dat vind ik beregezellig. Niet te vaak en je hoeft me niet in te
-      zepen, daar krijg ik een beetje jeuk van. Ik vind het ook heerlijk om in
-      een vochtige badkamer rond te hangen!
+      Oui, elle adore cela. Pas trop souvent toutefois, et inutile de dire : pas
+      de savon. Elle aime aussi beaucoup être placée dans une salle de bains
+      humide !
   - title: Moet ik echt water in jouw bekers doen?
     content: >-
       Nee, als je mij goed verzorgt hoeft dat niet. Mijn stengels kun je zien
