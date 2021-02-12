@@ -31,13 +31,14 @@ water_geven:
       Oui, elle adore cela. Pas trop souvent toutefois, et inutile de dire : pas
       de savon. Elle aime aussi beaucoup être placée dans une salle de bains
       humide !
-  - title: Moet ik echt water in jouw bekers doen?
+  - title: Dois-je verser de l’eau dans les fleurs ?
     content: >-
-      Nee, als je mij goed verzorgt hoeft dat niet. Mijn stengels kun je zien
-      als een natuurlijke gieter. Als je me genoeg water geeft en de plek waar
-      ik sta niet te droog is, dan vul ik mijn beker gewoon zelf met een laagje
-      water. Afhankelijk van mijn soort vul ik mijn beker tot 1/3e, maar dat
-      hoeft niet altijd zo te zijn.
+      Non, si vous la soignez correctement, ce n’est pas nécessaire. Les tiges
+      sont de petits arrosoirs naturels. Si vous lui donnez suffisamment d’eau
+      et que vous la placez dans un endroit pas trop sec, elle se charge
+      elle-même de remplir ses fleurs avec un fond d’eau. Selon les espèces, la
+      plante les remplit elle-même à un tiers, mais ce n’est pas toujours le
+      cas.
   - title: Hoe komt het dat jouw bekers bruin worden?
     content: >-
       Als mijn bekers bruin worden is er iets mis. Meestal heb ik dan te weinig
