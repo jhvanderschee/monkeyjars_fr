@@ -20,11 +20,11 @@ oorsprong:
       La plante peut conserver ses fleurs plusieurs années. Cela dépend surtout
       des soins reçus. Si l’arrosage est insuffisant, ses fleurs se dessèchent
       (elles brunissent) et meurent.
-  - title: Waar komt de naam Monkey Jars vandaan?
+  - title: D’où vient le nom de Monkey Jars ?
     content: >-
-      De apen die door de jungle slingeren nemen onderweg wel eens een slokje
-      water uit mijn beker. Vandaar de naam ‘Monkey Jars’. Ik word ook wel
-      ‘bekerplant’ genoemd. Maar jij mag ‘Monkey Jars’ zeggen ;-).
+      Les singes qui se balancent d’un arbre à l’autre dans la jungle utilisent
+      ses fleurs pour boire. D’où le nom de « Monkey Jars ». On l’appelle aussi
+      « plante à urnes ». Mais appelez-la « Monkey Jars » ;-).
 water_geven:
   - title: Mag ik je meenemen onder de douche?
     content: >-
