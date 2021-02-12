@@ -39,12 +39,13 @@ water_geven:
       elle-même de remplir ses fleurs avec un fond d’eau. Selon les espèces, la
       plante les remplit elle-même à un tiers, mais ce n’est pas toujours le
       cas.
-  - title: Hoe komt het dat jouw bekers bruin worden?
+  - title: Pourquoi les fleurs brunissent-elles ?
     content: >-
-      Als mijn bekers bruin worden is er iets mis. Meestal heb ik dan te weinig
-      water gekregen of sta ik op een plek die te droog of te licht voor mij is.
-      Het is dan belangrijk dat je mijn dorst lest en kijkt of je mij op een
-      vochtige plek kunt neer zetten. Bijvoorbeeld in de badkamer!
+      Si les fleurs brunissent, cela signifie que les soins reçus ne sont pas
+      adéquats. En général, l’arrosage a été insuffisant ou la plante est placée
+      dans un endroit trop sec ou trop lumineux. Il est important alors de lui
+      donner de l’eau et de la placer dans un endroit humide. Par exemple dans
+      la salle de bains !
   - title: Mag ik de bruine uitgedroogde bekers afknippen?
     content: >-
       Ja, de bruine bekers zijn afgestorven. Je mag ze afknippen. Het maakt niet
