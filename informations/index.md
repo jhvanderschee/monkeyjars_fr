@@ -7,13 +7,14 @@ oorsprong:
       Cette plante est originaire des forêts tropicales de l’île de Bornéo et
       des environs. Les pluies y sont très abondantes ! C’est pourquoi elle aime
       les arrosages et une humidité élevée.
-  - title: Waar groei je in de natuur?
+  - title: Où pousse-t-elle dans la nature ?
     content: >-
-      In de natuur groei ik tussen de bomen in de jungle. Voor mij een ideale
-      plek, omdat mijn voedsel bestaat uit kleine vliegjes en insecten. Ik lok
-      ze met mijn nectar. Als de insecten op mijn bekerrand landen, glijden ze
-      makkelijk uit en vallen in mijn beker. Mijn bekers zijn gevuld met een
-      plakkerige vloeistof vol verteringsenzymen.
+      Dans la nature, elle pousse entre les arbres de la jungle. C’est un
+      endroit idéal, car sa nourriture se compose de petites mouches et
+      d’insectes. Elle les attire avec son nectar. Lorsque les insectes se
+      posent sur le bord de ses fleurs (qui ressemblent à des urnes), ils
+      glissent et tombent au fond de la fleur. Ses fleurs sont remplies d’un
+      liquide collant et riche en enzymes digestifs.
   - title: Blijven de bekers altijd aan de plant vast zitten?
     content: >-
       Mijn bekers kunnen soms wel jaren blijven zitten. Dit hangt vooral af van
