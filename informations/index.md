@@ -2,11 +2,11 @@
 title: QUESTIONS FRÉQUENTES
 layout: weetjes
 oorsprong:
-  - title: Waar kom je vandaan?
+  - title: D’où vient le Monkey Jars ?
     content: >-
-      Van oorsprong kom ik uit het tropisch regenwoud van Borneo en omstreken.
-      Daar kan het flink regenen! Daarom houd ik ook van veel water en een hoge
-      luchtvochtigheid.
+      Cette plante est originaire des forêts tropicales de l’île de Bornéo et
+      des environs. Les pluies y sont très abondantes ! C’est pourquoi elle aime
+      les arrosages et une humidité élevée.
   - title: Waar groei je in de natuur?
     content: >-
       In de natuur groei ik tussen de bomen in de jungle. Voor mij een ideale
