@@ -56,15 +56,15 @@ water_geven:
       L’eau de pluie ne contient pas de calcaire. La plante n’aime pas beaucoup
       le calcaire. Vous pouvez donc la suspendre dehors pendant une bonne
       averse. Mais l’eau du robinet convient aussi, bien sûr !
-  - title: Hoe weet ik hoeveel water ik moet geven?
+  - title: Comment puis-je savoir quelle quantité d’eau donner ?
     content: >-
-      Ik houd van aandacht ☺. Kijk daarom goed naar me en voel zo nu en dan aan
-      mijn grond. Als ik niet bruin word en mijn grond een beetje vochtig is dan
-      voel ik me lekker. Als je goede vriendjes met me wilt worden, kijk dan
-      vooral in het begin extra vaak naar me en probeer te ontdekken hoeveel
-      water ik nodig heb. Je kunt mijn bladeren vochtig houden met een
-      plantenspuit. Maar overdrijf het niet, van te veel water worden mijn
-      wortels ziek en ga ik dood.
+      Portez attention à la plante ☺. Observez-la bien et sentez de temps avec
+      le doigt si la terre est humide. Si les fleurs ne brunissent pas et que la
+      terre est un peu humide, la plante se porte bien. Pour mieux connaître
+      votre plante, regardez-la souvent au début, pour découvrir quelle est la
+      quantité d’eau dont elle a besoin. Vous pouvez humidifier les feuilles
+      avec un brumisateur. Mais n’exagérez pas, car les racines ne supportent
+      pas un excès d’eau et meurent.
 plaats:
   - title: Wat is de beste plek voor mijn Monkey Jars?
     content: >-
