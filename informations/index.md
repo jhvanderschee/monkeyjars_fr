@@ -66,11 +66,11 @@ water_geven:
       avec un brumisateur. Mais n’exagérez pas, car les racines ne supportent
       pas un excès d’eau et meurent.
 plaats:
-  - title: Wat is de beste plek voor mijn Monkey Jars?
+  - title: Quel est le meilleur emplacement pour mon Monkey Jars ?
     content: >-
-      Net als in de jungle houd ik van een lichte plek, maar ik kan niet tegen
-      direct zonlicht. In warme zomermaanden vind ik het heerlijk om buiten te
-      zijn, maar zet me dus niet direct in de zon.
+      Comme dans la jungle, cette plante aime les endroits lumineux, mais à
+      l’abri des rayons directs du soleil. Pendant les mois d’été chauds, elle
+      aime être dehors, mais ne la placez pas en plein soleil.
   - title: Waarom zijn jouw bekers rood van kleur?
     content: >-
       Ik ben een echte Casanova. Met de rode kleur van mijn bekers lok ik
