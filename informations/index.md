@@ -1,5 +1,5 @@
 ---
-title: Weetjes
+title: QUESTIONS FRÉQUENTES
 layout: weetjes
 oorsprong:
   - title: Waar kom je vandaan?
