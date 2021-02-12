@@ -75,11 +75,12 @@ plaats:
     content: >-
       La plante est un vrai Casanova. La couleur rouge de ses fleurs attire les
       insectes. Plus ses fleurs ont une couleur vive, plus elle a faim !
-  - title: Wanneer ontstaan er bekers?
+  - title: Quand les fleurs se forment-elles ?
     content: >-
-      Ik ben een summer dude; in de wintermaanden groei ik langzaam, maar in de
-      zomer groeien mijn bladeren een stuk sneller en ontstaan er ook nieuwe
-      bekers. De bekers zijn een verlengde van mijn blad.
+      La plante adore l’été ; pendant les mois d’hiver, elle pousse lentement,
+      mais en été ses feuilles se développent plus rapidement et de nouvelles
+      fleurs apparaissent également. Les fleurs sont un prolongement de la
+      feuille.
   - title: Kan ik mijn Monkey Jars verpotten?
     content: >-
       Ik heb een hekel aan verhuizen. Ik hoop dan ook dat je mij lekker in mijn
