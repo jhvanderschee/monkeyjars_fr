@@ -71,10 +71,10 @@ plaats:
       Comme dans la jungle, cette plante aime les endroits lumineux, mais à
       l’abri des rayons directs du soleil. Pendant les mois d’été chauds, elle
       aime être dehors, mais ne la placez pas en plein soleil.
-  - title: Waarom zijn jouw bekers rood van kleur?
+  - title: Pourquoi les fleurs sont-elles rouges ?
     content: >-
-      Ik ben een echte Casanova. Met de rode kleur van mijn bekers lok ik
-      insecten. Hoe feller de kleur van mijn bekers, hoe meer honger ik heb!
+      La plante est un vrai Casanova. La couleur rouge de ses fleurs attire les
+      insectes. Plus ses fleurs ont une couleur vive, plus elle a faim !
   - title: Wanneer ontstaan er bekers?
     content: >-
       Ik ben een summer dude; in de wintermaanden groei ik langzaam, maar in de
