@@ -46,11 +46,11 @@ water_geven:
       dans un endroit trop sec ou trop lumineux. Il est important alors de lui
       donner de l’eau et de la placer dans un endroit humide. Par exemple dans
       la salle de bains !
-  - title: Mag ik de bruine uitgedroogde bekers afknippen?
+  - title: Puis-je couper les fleurs brunes desséchées ?
     content: >-
-      Ja, de bruine bekers zijn afgestorven. Je mag ze afknippen. Het maakt niet
-      uit waar; je kunt ze direct boven aan de stengel afknippen of onderaan. Ik
-      ga daarna hard mijn best doen om nieuwe bekers te maken.
+      Oui, les fleurs brunes sont mortes. Vous pouvez les couper. Peu importe où
+      : directement au haut de la tige ou bien en bas. La plante développera
+      ensuite de nouvelles fleurs.
   - title: Moet ik altijd regenwater geven?
     content: >-
       Regenwater bevat geen kalk. Kalk vind ik wat minder lekker. Je mag mij
