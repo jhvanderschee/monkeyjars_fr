@@ -51,11 +51,11 @@ water_geven:
       Oui, les fleurs brunes sont mortes. Vous pouvez les couper. Peu importe où
       : directement au haut de la tige ou bien en bas. La plante développera
       ensuite de nouvelles fleurs.
-  - title: Moet ik altijd regenwater geven?
+  - title: Dois-je toujours arroser avec de l’eau de pluie ?
     content: >-
-      Regenwater bevat geen kalk. Kalk vind ik wat minder lekker. Je mag mij
-      daarom prima buiten hangen tijdens een flinke regenbui. Maar ook een plons
-      kraanwater slik ik als zoete koek hoor!
+      L’eau de pluie ne contient pas de calcaire. La plante n’aime pas beaucoup
+      le calcaire. Vous pouvez donc la suspendre dehors pendant une bonne
+      averse. Mais l’eau du robinet convient aussi, bien sûr !
   - title: Hoe weet ik hoeveel water ik moet geven?
     content: >-
       Ik houd van aandacht ☺. Kijk daarom goed naar me en voel zo nu en dan aan
