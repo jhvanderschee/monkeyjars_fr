@@ -81,11 +81,11 @@ plaats:
       mais en été ses feuilles se développent plus rapidement et de nouvelles
       fleurs apparaissent également. Les fleurs sont un prolongement de la
       feuille.
-  - title: Kan ik mijn Monkey Jars verpotten?
+  - title: Puis-je rempoter mon Monkey Jars ?
     content: >-
-      Ik heb een hekel aan verhuizen. Ik hoop dan ook dat je mij lekker in mijn
-      vertrouwde potje wil laten zitten. De potgrond is speciaal samengesteld
-      voor mij als vleeseter en ik ben er erg aan gehecht.
+      Cette plante n’aime pas les déménagements. Laissez-la donc dans son pot
+      d’origine. Ce terreau a en effet spécialement été composé à l’intention
+      des plantes carnivores.
 plantenvoeding:
   - title: Kan ik mijn Monkey Jars kunstmest geven?
     content: >-
