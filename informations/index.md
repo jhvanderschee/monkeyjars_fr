@@ -1,5 +1,6 @@
 ---
-title: QUESTIONS FRÉQUENTES
+title: INFORMATIONS
+top_title: QUESTIONS FRÉQUENTES
 layout: weetjes
 oorsprong:
   - title: D’où vient le Monkey Jars ?
